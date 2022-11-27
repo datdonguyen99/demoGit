@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-27T14:05:33.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="fvskuBxmeizBKhizkiax" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-27T14:07:06.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="ma9y1RXZZMfeBz0pYm3f" version="20.6.0" type="github" pages="2">
   <diagram id="LBoiXbSDctHq4AoA1icd" name="Page-1">
     <mxGraphModel dx="595" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="1NXNDLGYrSx80CN15QJQ-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ESP8266 Wemos D1 mini&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="245" y="560" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1NXNDLGYrSx80CN15QJQ-29" value="&lt;b style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;MLX90614&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="1NXNDLGYrSx80CN15QJQ-29" value="&lt;b style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;MLX90614&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontColor=#000000;direction=east;verticalAlign=top;align=left;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="530" y="540" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1NXNDLGYrSx80CN15QJQ-32" value="VIN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
